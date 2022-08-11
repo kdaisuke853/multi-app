@@ -15,7 +15,7 @@
     </head>
     <body>
         <header>
-            {{ $header }}
+            {{ $header1 }}
         </header>
         <div class="font-sans text-gray-900 antialiased">
             {{ $slot }}
